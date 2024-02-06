@@ -1,1 +1,1 @@
-KOB project using vue and springboot 
+A platform where players upload bot snakes and battle.
