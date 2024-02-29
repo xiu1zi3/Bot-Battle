@@ -26,7 +26,7 @@ export class AcGameObject{
             if(obj===this){
                 AC_GAME_OBJECTS.splice(i);
                 break;
-            } 
+            }
         }
     }
 }

@@ -1,6 +1,6 @@
 <template>
 
-    <div class="container">
+    <div class="container content-field">
         <div class="card">
             <div class="card-body">
                 <slot></slot>
@@ -9,6 +9,11 @@
     </div>
     
     
-    </template>
-    <script></script>
-    <style scoped></style>
+</template>
+<script>
+</script>
+<style scoped>
+div.content-field{
+    margin-top: 20px;
+}
+</style>
