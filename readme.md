@@ -1,5 +1,6 @@
 [TOC]
-A platform where players upload bot snakes and battle.
+
+## Bot对战平台
 
 ### 图解
 
