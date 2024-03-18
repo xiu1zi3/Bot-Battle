@@ -2,13 +2,6 @@
 
 ## Bot对战平台
 
-### 图解
-
-<img src="https://ice2604-navi.github.io/asssets/botbattle.jpg" alt="图片alt" title="图片title">
-
-<center><font color=gray>图片来源：<a href="https://gitee.com/XZHongAN/king-of-bots" alt="图片alt" title="图片title">XZHongAN</a> </font></center>
-
-
 ### 玩法介绍
 - 玩家（两条蛇）初始位于地图对角，地图大小为 13×14，最外围一圈为障碍物，地图内部每局随机生成障碍物，满足中心对称（且随机地图保证玩家出生地不为障碍物，两名玩家必定连通，且不会在同一回合走到同一个格子上）
 - 两名玩家的匹配联机对战，使用键盘 `W/S/A/D` 操作移动，每回合超过 5 秒不输入判定为自杀
@@ -33,3 +26,10 @@
   - 登录
   - 我的 Bot
   - Bot 的记录
+
+### 图解
+
+<img src="https://ice2604-navi.github.io/asssets/botbattle.jpg" alt="图片alt" title="图片title">
+
+<center><font color=gray>图片来源：<a href="https://gitee.com/XZHongAN/king-of-bots" alt="图片alt" title="图片title">XZHongAN</a> </font></center>
+
