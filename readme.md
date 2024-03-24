@@ -2,13 +2,17 @@
 
 ## Bot对战平台
 
-### 图解
+### 1.玩法介绍
+- 游戏开始前，决定使用玩家上传的寻路代码（或玩家手动使用键盘 `W/S/A/D` 操作）控制你的蛇
+- 两条蛇初始位于地图对角，地图最外围一圈为障碍物，地图内部每局随机生成障碍物，满足中心对称（且随机地图保证玩家出生地不为障碍物，两名玩家必定连通，由于地图大小为 13×14，长和宽中有一个奇数有一个偶数，所以蛇头不会在同一回合走到同一个格子上）
+- 代码执行（或者键盘输入），蛇移动，每回合超过 5 秒不输入判定为自杀（由代码控制往往很快，只有“手动档”玩家需要注意5秒的要求）
+- 玩家若下一回合移动的目标位置为障碍物或某条蛇的身体部位则死亡
+- 需要注册并登录后才能访问各个页面
+- 用户可以在 My Bots 页面查看并管理自己的 Bot（包括名称、创建时间、简介、代码等信息），创建、修改或删除 Bot
+- 每名玩家初始天梯分为 1500，匹配时优先匹配分值接近的玩家，若匹配时间较长则会匹配分值差距较大的玩家
 
-<img src="https://ice2604-navi.github.io/asssets/botbattle.jpg" alt="图片alt" title="图片title">
 
-<center><font color=gray>图片来源：<a href="https://gitee.com/XZHongAN/king-of-bots" alt="图片alt" title="图片title">XZHongAN</a> </font></center>
-
-### 实现模块
+### 2.实现模块
 
 - PK
   - 匹配界面（微服务）
@@ -23,3 +27,10 @@
   - 登录
   - 我的 Bot
   - Bot 的记录
+
+### 3.图解
+
+<img src="https://ice2604-navi.github.io/asssets/botbattle.jpg" alt="图片alt" title="图片title">
+
+<center><font color=gray>图片来源：<a href="https://gitee.com/XZHongAN/king-of-bots" alt="图片alt" title="图片title">XZHongAN</a> </font></center>
+
