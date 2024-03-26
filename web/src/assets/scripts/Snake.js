@@ -58,6 +58,7 @@ export class Snake extends AcGameObject{
     next_step(){//将蛇的状态变为走下一步
         const d=this.direction;
         this.next_cell=new Cell(this.cells[0].r+this.dr[d],this.cells[0].c+this.dc[d]);
+        this.eye_direction=d;
         this.direction=-1;//清空操作
         this.status="move";
         this.step++;

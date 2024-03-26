@@ -23,7 +23,8 @@
             </div>
 
             <div class="col-12" style="text-align: center; padding-top: 15vh; ">
-                    <button @click="click_match_btn" type="button" class="btn btn-primary btn-lg">{{match_btn_info}}</button>
+                    <button @click="click_match_btn" type="button" class="btn btn-primary btn-lg">{{match_btn_info}}
+                    </button>
             </div>
 
         </div>
@@ -33,11 +34,14 @@
 
 
 <script>
-import store from '@/store';
-import { ref } from 'vue';
+import { ref } from 'vue'
+import { useStore } from 'vuex';
+// import store from '@/store';
+
 
 export default{
     setup(){
+        const store=useStore();
         let match_btn_info = ref("开始匹配");
 
         const click_match_btn = () =>{
