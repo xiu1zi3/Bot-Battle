@@ -9,8 +9,8 @@
 import PlayGround from '../../components/PlayGround.vue'
 import MatchGround from '../../components/MatchGround.vue'
 import ResultBoard from '../../components/ResultBoard.vue'
-import { onMounted, onUnmounted } from 'vue';
-import { useStore } from 'vuex';
+import { onMounted, onUnmounted } from 'vue'
+import { useStore } from 'vuex'
 
 
 export default{
@@ -22,6 +22,7 @@ export default{
     setup(){
         const store = useStore();
         const socketUrl = `ws://127.0.0.1:3000/websocket/${store.state.user.token}/`;
+        store.commit("updateLoser","none");
 
         let socket = null;
         onMounted(()=>{
@@ -32,7 +33,7 @@ export default{
             socket = new WebSocket(socketUrl);
 
             socket.onopen = () => {
-                console.log('connected!');
+                console.log("connected!");
                 store.commit("updateSocket",socket);
             }
 
