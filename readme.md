@@ -1,10 +1,4 @@
 [TOC]
-<br>
-在线程序对抗平台 <a href="https://www.botzone.org.cn/" target="_blank">www.botzone.org.cn</a>承办过许多 AI 对抗比赛，其中的 Bot 上演了无数精彩刺激的游戏对局
-
-本项目 Bot Battle 是对这款 <a href="https://www.botzone.org.cn/game/Snake/" target="_blank">Snake-Botzone 游戏</a> 的拙劣模仿
-
-欢迎您在<a href="https://www.cnblogs.com/aijisjtu/p/18105385" target="_blank">博客</a>评论或<a href="https://github.com/aijisjtu/Bot-Battle/issues/" target="_blank">Issues</a>反馈~ BotBattle 非常需要您的留言建议！
 
 ## 1.游玩
 
@@ -85,3 +79,11 @@
   可以这样想：地图大小为 13×14，长和宽中有一个奇数有一个偶数。双方不可能在同一回合走到同一个格子上
 - 等待时间与匹配顺序
   匹配时优先匹配分值接近的玩家，若匹配时间较长，即使分值差距较大也会优先匹配
+
+---
+
+在线程序对抗平台 <a href="https://www.botzone.org.cn/" target="_blank">www.botzone.org.cn</a>承办过许多 AI 对抗比赛，其中的 Bot 上演了无数精彩刺激的游戏对局
+
+本项目 Bot Battle 是对这款 <a href="https://www.botzone.org.cn/game/Snake/" target="_blank">Snake-Botzone 游戏</a> 的拙劣模仿
+
+欢迎您在<a href="https://www.cnblogs.com/aijisjtu/p/18105385" target="_blank">博客</a>评论或<a href="https://github.com/aijisjtu/Bot-Battle/issues/" target="_blank">Issues</a>反馈~ BotBattle 非常需要您的留言建议！
