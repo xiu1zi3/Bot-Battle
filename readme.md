@@ -1,7 +1,5 @@
 [TOC]
-
-## 0.写在前面
-
+<br>
 在线程序对抗平台 <a href="https://www.botzone.org.cn/" target="_blank">www.botzone.org.cn</a>承办过许多 AI 对抗比赛，其中的 Bot 上演了无数精彩刺激的游戏对局
 
 本项目 Bot Battle 是对这款 <a href="https://www.botzone.org.cn/game/Snake/" target="_blank">Snake-Botzone 游戏</a> 的拙劣模仿
@@ -22,7 +20,7 @@
 
 1. 进入 <a href="https://app6735.acapp.acwing.com.cn/" target="_blank">游戏网址</a>
 
-2. 登录测试用账号
+2. 登录体验账号
 
    > 用户名
    > `Alice`
@@ -42,7 +40,7 @@
 
 5. 对局结束后，可在**对局列表**观看比赛回放，在**排行榜**查看天梯积分
 
-常规游玩介绍请见 <a href="https://www.cnblogs.com/aijisjtu/p/18105385" target="_blank">BotBattle-玩家手册</a>
+- “常规游玩”介绍请见 <a href="https://www.cnblogs.com/aijisjtu/p/18105385" target="_blank">BotBattle-玩家手册</a>
 
 <!--
 ### 1.3 常规游玩
@@ -57,7 +55,13 @@
 
 ## 2.开发
 
-### 2.1 模块
+### 2.1 图解
+
+<img src="https://ice2604-navi.github.io/asssets/botbattle.jpg" alt="图片alt" title="图片title">
+
+<center><font color=gray>图片来源：<a href="https://gitee.com/XZHongAN" target="_blank" alt="图片alt" title="图片title">gitee.com/XZHongAN</a> </font></center>
+
+### 2.2 模块
 
 - PK
   - 匹配界面（微服务）
@@ -72,12 +76,6 @@
   - 注册
   - 登录
   - 我的 Bot
-
-### 2.2 图解
-
-<img src="https://ice2604-navi.github.io/asssets/botbattle.jpg" alt="图片alt" title="图片title">
-
-<center><font color=gray>图片来源：<a href="https://gitee.com/XZHongAN" target="_blank" alt="图片alt" title="图片title">gitee.com/XZHongAN</a> </font></center>
 
 ### 2.3 细节
 
