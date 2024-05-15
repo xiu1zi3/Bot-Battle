@@ -49,6 +49,20 @@
 
 ## 2.开发
 
+语言、框架：
+<div align="center">
+<img src="https://img.shields.io/badge/-Java-important?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Spring%20Cloud-blue?style=for-the-badge" />
+</div>
+组件、中间件等：
+<div align="center">
+<img src="https://img.shields.io/badge/-MySQL-yellow" />
+<img src="https://img.shields.io/badge/-WebSocket-1af442"/>
+<img src="https://img.shields.io/badge/-Docker-83ef12" />
+<img src="https://img.shields.io/badge/-Nginx-pink"/>
+</div>
+
 ### 2.1 图解
 
 <img src="https://ice2604-navi.github.io/asssets/botbattle.jpg" alt="图片alt" title="图片title">
