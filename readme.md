@@ -1,13 +1,30 @@
+<p align="center">
+   <a href="https://www.cnblogs.com/xiu1zi3/p/18105385" target="_blank" rel="noopener noreferrer"><img width="180" src="https://img2024.cnblogs.com/blog/3387348/202405/3387348-20240522110652691-1079098155.jpg" alt="logo">
+   </a>
+</p>
+
+<h4 align="center">仿北大Bot对战平台</h4>
+
+ <!--  <p align="center">
+<a href="https://www.npmjs.com/package/vuepress-theme-vdoing"><img alt="npm" src="https://img.shields.io/npm/v/vuepress-theme-vdoing"></a>
+   <a href="https://www.npmjs.com/package/vuepress-theme-vdoing" target="_blank"><img src="https://img.shields.io/npm/dt/vuepress-theme-vdoing" alt="npm" ></a>  
+  <a href="https://github.com/xiu1zi3/Bot-Battle/stargazers"><img src="https://img.shields.io/github/stars/xugaoyi/vuepress-theme-vdoing?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"></a>
+  <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/actions?query=workflow%3ACI"><img src="https://github.com/xugaoyi/vuepress-theme-vdoing/workflows/CI/badge.svg" alt="CI"></a>
+  <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/actions?query=workflow%3AbaiduPush"><img src="https://github.com/xugaoyi/vuepress-theme-vdoing/workflows/baiduPush/badge.svg" alt="baiduPush"></a> 
+</p> -->
+
+<!--  <p align="center">仿北大Bot对战平台</p> -->
+
 
 ## 1.游玩
 
-### 1.1 欢迎阅读
+### 1.1 📖 欢迎阅读 
 
 > <a href="https://www.cnblogs.com/aijisjtu/p/18105385" target="_blank">BotBattle-玩家手册</a>
 
 ↑ 详细介绍，请见该博客~↑
 
-### 1.2 快速开始
+### 1.2 🚀 快速开始
 
 <!-- ![](https://img2024.cnblogs.com/blog/3387348/202403/3387348-20240330125702599-1233512050.png) -->
 
@@ -46,15 +63,15 @@
 
 3. 打开另一款浏览器。接下来与 **1.2 快速开始** 步骤相同 -->
 
-## 2.开发
+## 2.开发 
 
-语言、框架：
+⚙️ 语言、框架：
 <div align="center">
 <img src="https://img.shields.io/badge/-Java-important?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Spring%20Cloud-blue?style=for-the-badge" />
 </div>
-组件、中间件等：
+🔧 组件、中间件等：
 <div align="center">
 <img src="https://img.shields.io/badge/-MySQL-yellow" />
 <img src="https://img.shields.io/badge/-WebSocket-1af442"/>
@@ -62,7 +79,7 @@
 <img src="https://img.shields.io/badge/-Nginx-pink"/>
 </div>
 
-### 2.1 图解
+### 2.1 图解 
 
 <img src="https://ice2604-navi.github.io/asssets/botbattle.jpg" alt="图片alt" title="图片title">
 
