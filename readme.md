@@ -16,6 +16,19 @@
 <!--  <p align="center">仿北大Bot对战平台</p> -->
 
 
+在线程序对抗平台 <a href="https://www.botzone.org.cn/" target="_blank">www.botzone.org.cn</a>承办过许多 AI 对抗比赛，其中的 Bot 上演了无数精彩刺激的游戏对局
+
+本项目 Bot Battle 是对这款 <a href="https://www.botzone.org.cn/game/Snake/" target="_blank">Snake-Botzone 游戏</a> 的拙劣模仿
+
+欢迎您在<a href="https://www.cnblogs.com/aijisjtu/p/18105385" target="_blank">博客</a>评论或<a href="https://github.com/aijisjtu/Bot-Battle/issues/" target="_blank">Issues</a>反馈~ BotBattle 非常需要您的留言建议！
+
+---
+# 0.停止服务
+很遗憾，由于不明原因，运行 BotBattle 的容器常导致云服务器宕机，我没有租用更多的云服务器，这样的损失会影响到别的项目，于是决定**停服**<br>
+也许用兜底策略把一系列异常处理好了，能够恢复服务<br>
+感谢你对botbattle游戏的兴趣，以下规则说明暂时保留<br>
+<a href="https://www.cnblogs.com/xiu1zi3/p/18105385" target="_blank" rel="noopener noreferrer"><img width="180" src="https://img2024.cnblogs.com/blog/3387348/202409/3387348-20240923182039553-1942793392.jpg" alt="logo">
+
 ## 1.游玩
 
 ### 1.1 📖 欢迎阅读 
@@ -110,10 +123,4 @@
 - 等待时间与匹配顺序
   匹配时优先匹配分值接近的玩家，若匹配时间较长，即使分值差距较大也会优先匹配
 
----
 
-在线程序对抗平台 <a href="https://www.botzone.org.cn/" target="_blank">www.botzone.org.cn</a>承办过许多 AI 对抗比赛，其中的 Bot 上演了无数精彩刺激的游戏对局
-
-本项目 Bot Battle 是对这款 <a href="https://www.botzone.org.cn/game/Snake/" target="_blank">Snake-Botzone 游戏</a> 的拙劣模仿
-
-欢迎您在<a href="https://www.cnblogs.com/aijisjtu/p/18105385" target="_blank">博客</a>评论或<a href="https://github.com/aijisjtu/Bot-Battle/issues/" target="_blank">Issues</a>反馈~ BotBattle 非常需要您的留言建议！
