@@ -26,9 +26,11 @@
 # 0.停止服务
 很遗憾，由于不明原因，运行 BotBattle 的容器常导致云服务器宕机，我没有租用更多的云服务器，这样的损失会影响到别的项目，于是决定**停服**<br>
 也许用兜底策略把一系列异常处理好了，能够恢复服务<br>
-感谢你对botbattle游戏的兴趣，以下规则说明暂时保留<br>
-<a href="https://www.cnblogs.com/xiu1zi3/p/18105385" target="_blank" rel="noopener noreferrer"><img width="180" src="https://img2024.cnblogs.com/blog/3387348/202409/3387348-20240923182039553-1942793392.jpg" alt="logo">
-
+感谢您对botbattle游戏的兴趣，以下规则说明暂时保留
+<p align="center">
+   <a href="https://www.cnblogs.com/xiu1zi3/p/18105385" target="_blank" rel="noopener noreferrer"><img src="https://img2024.cnblogs.com/blog/3387348/202409/3387348-20240923182039553-1942793392.jpg" alt="logo">
+   </a>
+</p>
 ## 1.游玩
 
 ### 1.1 📖 欢迎阅读 
